@@ -1,5 +1,9 @@
 function isFive(num) {
   // Your code here
+  if (num === 5) {
+    return true;
+  }
+  return false;
 }
 
 function isOdd(number) {
